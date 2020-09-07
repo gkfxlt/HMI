@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="fcpresss" id="Wl[6@*]aF;OFJ7IVNRC," x="50" y="50"><next><block type="fcpressl" id="$SAqeLfr66Y/);p@QqP,"><field name="FORCE">10</field><field name="TOOL">0</field><field name="WOBJ">0</field><next><block type="fcpressp" id="kGufuGl}hcN@:wK2$-n;"/></next></block></next></block></xml>
